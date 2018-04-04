@@ -1,0 +1,6 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\QuintoExercicio\bin\Debug\QuintoExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\QuintoExercicio\bin\Debug\QuintoExercicio.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\QuintoExercicio\obj\x86\Debug\QuintoExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\QuintoExercicio\obj\x86\Debug\QuintoExercicio.pdb
+C:\Users\Aluno_2\Desktop\QuintoExercicio\QuintoExercicio\obj\x86\Debug\QuintoExercicio.exe
+C:\Users\Aluno_2\Desktop\QuintoExercicio\QuintoExercicio\obj\x86\Debug\QuintoExercicio.pdb

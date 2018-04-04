@@ -1,0 +1,6 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\PeimeiroExercicio\bin\Debug\PeimeiroExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\PeimeiroExercicio\bin\Debug\PeimeiroExercicio.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\PeimeiroExercicio\obj\x86\Debug\PeimeiroExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\PeimeiroExercicio\obj\x86\Debug\PeimeiroExercicio.pdb
+C:\Users\Aluno_2\Desktop\PeimeiroExercicio\PeimeiroExercicio\obj\x86\Debug\PeimeiroExercicio.exe
+C:\Users\Aluno_2\Desktop\PeimeiroExercicio\PeimeiroExercicio\obj\x86\Debug\PeimeiroExercicio.pdb

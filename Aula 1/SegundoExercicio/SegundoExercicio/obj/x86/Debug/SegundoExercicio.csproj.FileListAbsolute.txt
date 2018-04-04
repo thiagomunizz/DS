@@ -1,0 +1,6 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SegundoExercicio\bin\Debug\SegundoExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SegundoExercicio\bin\Debug\SegundoExercicio.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SegundoExercicio\obj\x86\Debug\SegundoExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SegundoExercicio\obj\x86\Debug\SegundoExercicio.pdb
+C:\Users\Aluno_2\Desktop\SegundoExercicio\SegundoExercicio\obj\x86\Debug\SegundoExercicio.exe
+C:\Users\Aluno_2\Desktop\SegundoExercicio\SegundoExercicio\obj\x86\Debug\SegundoExercicio.pdb

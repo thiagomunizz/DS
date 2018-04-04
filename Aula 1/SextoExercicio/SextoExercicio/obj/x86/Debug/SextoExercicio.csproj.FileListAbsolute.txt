@@ -1,0 +1,6 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SextoExercicio\bin\Debug\SextoExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SextoExercicio\bin\Debug\SextoExercicio.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SextoExercicio\obj\x86\Debug\SextoExercicio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\SextoExercicio\obj\x86\Debug\SextoExercicio.pdb
+C:\Users\Aluno_2\Desktop\SextoExercicio\SextoExercicio\obj\x86\Debug\SextoExercicio.exe
+C:\Users\Aluno_2\Desktop\SextoExercicio\SextoExercicio\obj\x86\Debug\SextoExercicio.pdb
