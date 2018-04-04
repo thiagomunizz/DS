@@ -1,0 +1,5 @@
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\bin\Release\AnimaisHeranca.exe
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\bin\Release\AnimaisHeranca.pdb
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\obj\x86\Release\AnimaisHeranca.exe
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\obj\x86\Release\AnimaisHeranca.pdb

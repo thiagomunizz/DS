@@ -1,0 +1,19 @@
+C:\Users\vcalv\AppData\Local\Temporary Projects\AnimaisHeranca\bin\Debug\AnimaisHeranca.exe
+C:\Users\vcalv\AppData\Local\Temporary Projects\AnimaisHeranca\bin\Debug\AnimaisHeranca.pdb
+C:\Users\vcalv\AppData\Local\Temporary Projects\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\vcalv\AppData\Local\Temporary Projects\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+I:\PROJETOS C#\Exercicios\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+I:\PROJETOS C#\Exercicios\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+I:\PROJETOS C#\Exercicios\AnimaisHeranca\AnimaisHeranca\bin\Debug\AnimaisHeranca.exe
+I:\PROJETOS C#\Exercicios\AnimaisHeranca\AnimaisHeranca\bin\Debug\AnimaisHeranca.pdb
+E:\_OUTROS\_PORTABLE\_GITPORTABLE\PortableGit\dsieteczl\03-MARCO\AulaHeranca\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+E:\_OUTROS\_PORTABLE\_GITPORTABLE\PortableGit\dsieteczl\03-MARCO\AulaHeranca\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+E:\_OUTROS\_PORTABLE\_GITPORTABLE\PortableGit\dsieteczl\03-MARCO\AulaHeranca\AnimaisHeranca\AnimaisHeranca\bin\Debug\AnimaisHeranca.exe
+E:\_OUTROS\_PORTABLE\_GITPORTABLE\PortableGit\dsieteczl\03-MARCO\AulaHeranca\AnimaisHeranca\AnimaisHeranca\bin\Debug\AnimaisHeranca.pdb
+C:\Users\Aluno\Desktop\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\Aluno\Desktop\AnimaisHeranca\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.exe
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\obj\x86\Debug\AnimaisHeranca.pdb
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\bin\Debug\AnimaisHeranca.exe
+C:\Users\Aluno\Desktop\Ex_Animais\AnimaisHeranca\bin\Debug\AnimaisHeranca.pdb
