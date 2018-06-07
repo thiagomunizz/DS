@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\Aluno\Desktop\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.frmTeste1.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.exe
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.pdb
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.frmTeste2.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.Ex3.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.Ex4.resources
+C:\Users\Aluno\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.Ex5.resources
