@@ -1,0 +1,33 @@
+USE master
+IF EXISTS(select * from sys.databases where name='dbThiago')
+DROP DATABASE dbThiago
+
+CREATE DATABASE dbThiago
+USE dbThiago
+
+CREATE TABLE marca(
+	idMarca INT NOT NULL IDENTITY (1,1) PRIMARY KEY,
+	marca VARCHAR(255)  
+);
+
+CREATE TABLE combustivel(
+	idCombustivel INT NOT NULL IDENTITY (1,1) PRIMARY KEY,
+	combustivel VARCHAR(255) 
+);
+
+CREATE TABLE carro(
+	idCarro INT NOT NULL IDENTITY (1,1) PRIMARY KEY,
+	modeloCarro VARCHAR(255),
+	corCarro VARCHAR(255),
+	anoCarro VARCHAR(255),
+	idMarca INT NOT NULL,
+	idCombustivel INT NOT NULL,
+	
+	CONSTRAINT FK_idMarca FOREIGN KEY (idMarca) REFERENCES marca (idMarca),
+	CONSTRAINT FK_idCombustivel FOREIGN KEY (idCombustivel) REFERENCES combustivel (idCombustivel),
+	
+);
+
+INSERT INTO combustivel (combustivel) VALUES ('GASOLINA'),('ÁLCOOL'),('DIESEL');
+INSERT INTO marca (marca) VALUES ('CHEVROLET'),('HONDA'),('HYUNDAI'); 
+
